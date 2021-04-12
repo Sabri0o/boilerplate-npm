@@ -13,5 +13,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": ["adding","related", "keywords"]
+	"keywords": ["adding","related", "keywords"],
+	"license": "MIT"
 }
